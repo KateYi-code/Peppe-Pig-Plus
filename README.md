@@ -1,4 +1,4 @@
-# Final project - A personal blogging system - Team Peppa Pig Plus
+# Peppa Pig+ - A personal blogging system
 
 ### Team Name
 
